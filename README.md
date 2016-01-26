@@ -68,7 +68,7 @@ I don't suggest using ts-node and every node module which hacks ```require.exten
 Use ```browserify --node`` or webpack with right config to generate server side build.
 
 ## Build (bundle)
-I use browserify [persistify, watchify, errorify, tsify, sassportify) but webpack is also great. I think [Rollup](https://github.com/rollup/rollup) can make smaller code, but it doesn't have [watch option](https://github.com/rollup/rollup/issues/284) yet.
+I use browserify (persistify, watchify, errorify, tsify, sassportify) but webpack is also great. I think [Rollup](https://github.com/rollup/rollup) can make smaller code, but it doesn't have [watch option](https://github.com/rollup/rollup/issues/284) yet.
 
 ## IDE
 I use Sublime and official [Microsoft plugin](https://github.com/Microsoft/TypeScript-Sublime-Plugin) but I think atom and vscode is also ideal for development, but much slower than sublime.
