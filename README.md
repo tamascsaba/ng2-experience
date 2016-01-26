@@ -10,7 +10,7 @@ My first project was [POC](https://github.com/tamascsaba/angular2-poc) which is 
 Angular community is really great. They are very responsive on github [issues](https://github.com/angular/angular/issues/) and [gitter](gitter.im/angular/angular) too.
 
 ## Examples
-Look after my [stars](https://github.com/stars/tamascsaba). I liked every good angular2 repository. [awesome-angular2](https://github.com/AngularClass/awesome-angular2) and
+Look after my [stars](https://github.com/stars/tamascsaba) search for angular2 or ng2. I liked every good angular2 repository. [awesome-angular2](https://github.com/AngularClass/awesome-angular2) and
 [angular2-education](https://github.com/timjacobi/angular2-education) are good base of knowledge.
 
 ## Naming conversion
