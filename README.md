@@ -7,7 +7,7 @@ It is a little description of my one year Angular2 experience.
 My first project was [POC](https://github.com/tamascsaba/angular2-poc) which is written by AtScript. It uses alpha-19 verison of angular2
 
 ## Community
-Angular community is really great. They are very responsive on github [issues](https://github.com/angular/angular/issues/) and [gitter](gitter.im/angular/angular) too.
+Angular community is really great. They are very responsive on github [issues](https://github.com/angular/angular/issues/) and [gitter](https://gitter.im/angular/angular) too.
 
 ## Examples
 Look after my [stars](https://github.com/stars/tamascsaba) search for angular2 or ng2. I liked every good angular2 repository. [awesome-angular2](https://github.com/AngularClass/awesome-angular2) and
