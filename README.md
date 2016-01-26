@@ -70,8 +70,9 @@ Use ```browserify --node`` or webpack with right config to generate server side 
 ## Build (bundle)
 I use browserify (persistify, watchify, errorify, tsify, sassportify) but webpack is also great. I think [Rollup](https://github.com/rollup/rollup) can make smaller code, but it doesn't have [watch option](https://github.com/rollup/rollup/issues/284) yet.
 
-## IDE
+## IDE/Editor
 I use Sublime and official [Microsoft plugin](https://github.com/Microsoft/TypeScript-Sublime-Plugin) but I think atom and vscode is also ideal for development, but much slower than sublime.
+When you prefer complex IDE use webstorm.
 
 ## Lint
 I suggest using [tslint](https://github.com/palantir/tslint), I think it's the best when using typescript.
