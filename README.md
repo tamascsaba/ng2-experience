@@ -84,7 +84,7 @@ I use [typedoc](https://github.com/sebastian-lenz/typedoc) to generate documenta
 I think karma has too complicated architecture. I suggest you using only jasmine or mocha, because the full source code is universal and runnable with nodejs. ***Always write universal code.***
 
 ## TypeScript vs ES6
-I use ***typescript*** in angular2 based code, which usually use rxjs too [it is also written by typescript). When you write codes which most often depend on node modules eg: express, node libs and middlewares use ***ES6***, while lot of package don't have typing definition (d.ts).
+I use ***typescript*** in angular2 based code, which usually use rxjs too (it is also written by typescript). When you write codes which most often depend on node modules eg: express, node libs and middlewares use ***ES6***, while lot of package don't have typing definition (d.ts).
 
 Typescript compiler (tsc) compile the [fastest](https://kpdecker.github.io/six-speed/) code, but sometimes not the standard way.
 
