@@ -77,7 +77,7 @@ I use Sublime and official [Microsoft plugin](https://github.com/Microsoft/TypeS
 I suggest using [tslint](https://github.com/palantir/tslint), I think it's the best when using typescript.
 
 ## Documentation
-I use [typedoc](https://github.com/sebastian-lenz/typedoc) it is really good, but templating is a little bit difficult.
+I use [typedoc](https://github.com/sebastian-lenz/typedoc) to generate documentation, but templating is a little bit difficult i think.
 
 ## Test
 I think karma has too complicated architecture. I suggest you using only jasmine or mocha, because the full source code is universal and runnable with nodejs. ***Always write universal code***
