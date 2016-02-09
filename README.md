@@ -6,6 +6,8 @@ It is a little description of my one year Angular2 experience.
 
 My first project was [POC](https://github.com/tamascsaba/angular2-poc) which is written by AtScript. It uses alpha-19 verison of angular2
 
+Other really good [style guide](https://github.com/mgechev/angular2-style-guide) by mgechev.
+
 ## Community
 Angular community is really great. They are very responsive on github [issues](https://github.com/angular/angular/issues/) and [gitter](https://gitter.im/angular/angular) too.
 
@@ -88,4 +90,5 @@ Never run tests on ts files, compile first, ts-node is really [slow](https://git
 I use ***typescript*** in angular2 based code, which usually use rxjs too (it is also written by typescript). When you write codes which most often depend on node modules eg: express, node libs and middlewares use ***ES6***, while lot of package don't have typing definition (d.ts).
 
 Typescript compiler (tsc) compile the [fastest](https://kpdecker.github.io/six-speed/) code, but sometimes not the standard way.
+
 
